@@ -18,6 +18,10 @@ h1 {
   font-size: 24px;
 }
 
+[hidden] {
+  display: none;
+}
+
 .note {
   display: inline-block;
   margin: 0;
